@@ -55,11 +55,4 @@ The model trained on the WOA-F2I optimized subset (27 features) yielded the foll
 | **F1-Score**     | **0.99** [cite: 432]       |
 | **Training Time**| **325 seconds** [cite: 423]|
 
----
-
-If you want, I can also create:
-
-✅ A perfectly formatted GitHub README with badges  
-✅ Installation & usage instructions  
-✅ Folder structure section  
-✅ A full academic-style abstract  
+--- 
