@@ -1,6 +1,6 @@
 # 💻 WOA-F2I Optimized Intrusion Detection System for High-Accuracy Network Security
 
-This project presents a novel, lightweight, and highly accurate **Intrusion Detection System (IDS)** specifically designed for **Software-Defined Networking (SDN)** environments[cite: 108, 121, 449]. The key innovation is the **WOA-F2I** framework, a hybrid feature-selection approach that addresses the challenge of high-dimensional traffic data in modern networks[cite: 84, 309, 248].
+This project presents a novel, lightweight, and highly accurate **Intrusion Detection System (IDS)** specifically designed for **Software-Defined Networking (SDN)** environments[108, 121, 449]. The key innovation is the **WOA-F2I** framework, a hybrid feature-selection approach that addresses the challenge of high-dimensional traffic data in modern networks[84, 309, 248].
 
 ---
 
